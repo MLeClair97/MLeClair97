@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm MLeClair97
+# Hi there! 👋 I'm Melissa LeClair (MLeClair97)
 
 ## VP of Operations → AI Implementation Specialist
 
@@ -70,3 +70,17 @@ Transitioning from operations leadership to hands-on AI implementation - helping
 - Bridge the gap between business needs and technical AI capabilities
 - Build and deploy AI tools that solve real operational challenges
 - Train teams and stakeholders on AI-enhanced workflows
+
+## 📫 Let's Connect
+
+**Email**: [melissaleclair97@gmail.com](mailto:melissaleclair97@gmail.com)  
+**LinkedIn**: [https://www.linkedin.com/in/melissaleclair97/](https://www.linkedin.com/in/melissaleclair97/)   
+**Portfolio**: [Link to live project demos](https://your-streamlit-app.com)  
+
+---
+
+⭐ **Currently available for AI implementation roles** | 📍 **Liberty Hill, Texas**
+
+---
+
+*"Helping businesses implement AI solutions that actually improve operations, not just impress in demos"*
