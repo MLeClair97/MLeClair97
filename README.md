@@ -75,7 +75,7 @@ Transitioning from operations leadership to hands-on AI implementation - helping
 
 **Email**: [melissaleclair97@gmail.com](mailto:melissaleclair97@gmail.com)  
 **LinkedIn**: [https://www.linkedin.com/in/melissaleclair97/](https://www.linkedin.com/in/melissaleclair97/)   
-**Portfolio**: [Link to live project demos](https://your-streamlit-app.com)  
+**Portfolio**: AI Sales Analytics App [https://ai-sales-analytics.streamlit.app/](https://ai-sales-analytics.streamlit.app/)  
 
 ---
 
